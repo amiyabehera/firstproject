@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author amiya
- *
- */
-module gitproject {
-}
